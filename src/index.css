@@ -4,6 +4,9 @@
 ::-webkit-scrollbar{
     width: 0;
 }
+img{
+    object-fit: cover;
+}
 :root{
    --color1:rgba(240, 78, 39,.7)
 }
