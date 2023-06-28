@@ -1,1 +1,0 @@
-# ozusaqlarimiz.cavidan.info
